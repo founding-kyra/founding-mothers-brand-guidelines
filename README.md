@@ -2,7 +2,7 @@
 Brand Guidelines for Founding Mothers Media
 # fmm-brand-guidelines
 
-**Live:** `foundingmothersmedia.github.io/founding-mothers-brand-guidelines
+**Live:** foundingmothersmedia.github.io/founding-mothers-brand-guidelines
 
 ---
 
